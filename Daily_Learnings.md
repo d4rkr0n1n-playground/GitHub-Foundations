@@ -29,3 +29,8 @@
 - Personalize your Codespace
   - Dotfiles
   - devcontainer files
+
+## 20-Sep-2026
+
+- Codespaces versus GitHub.dev editor
+  - Comparison of Codespaces and GitHub.dev
